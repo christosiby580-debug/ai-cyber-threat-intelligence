@@ -1,0 +1,3 @@
+event_id,timestamp,user,device,file,action
+EVT-004,2026-10-07T08:34:00,alice,LAPTOP-42,confidential.pdf,read
+EVT-005,2026-10-07T08:35:00,alice,LAPTOP-42,payroll.xlsx,read
